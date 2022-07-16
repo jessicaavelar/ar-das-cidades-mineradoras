@@ -17,7 +17,7 @@ const char *GScriptId = "AKfycbyiTn8Rj316NS-j7kmsmdGLO2uL3PSO78IUF2oi2vpYjfkReJV
 String place = "local-2";
 
 // Comando (insert_row ou append_row) e nome da planilha no Google Sheets (padrão é Sheet1):
-String payload_base =  "{\"command\": \"insert_row\", \"sheet_name\": \"Sheet1\", \"values\": ";
+String payload_base =  "{\"command\": \"insert_row\", \"sheet_name\": \"Página1\", \"values\": ";
 String payload = "";
 
 // Google Sheets setup (do not edit)
